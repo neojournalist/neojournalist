@@ -1,16 +1,16 @@
-## Hi there 👋
+# Data Scientist | NLP & Text Analytics Specialist
 
-<!--
-**neojournalist/neojournalist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transforming unstructured text data into actionable insights for business and social impact.
 
-Here are some ideas to get you started:
+## 🎯 Expertise
+- **Natural Language Processing**: Transformer models, sentiment analysis, text classification
+- **Data Pipeline Engineering**: ETL processes, data cleaning, feature engineering  
+- **Visualization & Storytelling**: Converting complex analyses into compelling narratives
+- **Domain Knowledge**: Journalism background provides unique perspective on information analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Stack
+Python | PyTorch | Transformers | Pandas | SQL | MongoDB| React | Git | Docker
+
+## 📌 Featured Projects
+- 🔧 [**IR/RE**](https://github.com/neojournalist/RelationExtraction) – Relation Extraction for Scientific Texts using classic machine learning and deep learning approaches
+- 📊 [**Ranking System**](https://github.com/neojournalist/project-rev-platform) – Multi-Factor Reviewer Recommendation Pipeline 
