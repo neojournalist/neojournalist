@@ -1,16 +1,26 @@
-# Data Scientist | NLP & Text Analytics Specialist
+# Applied NLP & Machine Learning Scientist
 
-Transforming unstructured text data into actionable insights for business and social impact.
+Building ML/NLP systems for information extraction, text classification, and ranking at scale.
 
-## 🎯 Expertise
-- **Natural Language Processing**: Transformer models, sentiment analysis, text classification
-- **Data Pipeline Engineering**: ETL processes, data cleaning, feature engineering  
-- **Visualization & Storytelling**: Converting complex analyses into compelling narratives
-- **Domain Knowledge**: Journalism background provides unique perspective on information analysis
+## 🔬 Research Interests
+- Information Extraction & Relation Extraction from unstructured text
+- Transformer fine-tuning (BERT) for domain-specific NLP tasks
+- Multi-label text classification at scale
+- Ranking systems & semantic similarity
 
 ## 🔧 Technical Stack
-Python | PyTorch | Transformers | Pandas | SQL | MongoDB| React | Git | Docker
+Python | PyTorch | Hugging Face Transformers | scikit-learn | XGBoost | pandas | SQL | MongoDB | React | Git | Docker
 
 ## 📌 Featured Projects
-- 🔧 [**IR/RE**](https://github.com/neojournalist/RelationExtraction) – Relation Extraction for Scientific Texts using classic machine learning and deep learning approaches
-- 📊 [**Ranking System**](https://github.com/neojournalist/project-rev-platform) – Multi-Factor Reviewer Recommendation Pipeline 
+
+| Project | Description | Methods | Key Result |
+|---------|-------------|---------|------------|
+| [Relation Extraction](https://github.com/neojournalist/RelationExtraction) | RE from scientific literature | BERT, SVM, XGBoost, spaCy | 86% weighted avg F1 score with fine-tuned BERT |
+| [Reviewer Recommendation](https://github.com/neojournalist/project-rev-platform) | Multi-factor reviewer matching pipeline | Semantic similarity, NLP, scoring framework | End-to-end platform with COI detection |
+| [Supplier Optimizer](https://github.com/neojournalist/supplier-task-optimizer) | ML-based cost optimization | Random Forest, MLP | RMSE cost reduction comparison |
+| [Digital Chatbot](https://github.com/neojournalist/digital-chatbot) | Context-aware conversational AI | LLM, RAG | Contextual Q&A from custom data |
+
+## 📊 Professional Experience
+- **Sci.Alpha** — Fine-tuned BERT models and built multi-label classifiers for 4M+ scientific publications
+- **HACE** — Developed NLP pipeline for ESG document classification (79% accuracy)
+- **School of Data / UN Women** — Data analyst on 50+ research publications for World Bank, UNDP, UN Women
